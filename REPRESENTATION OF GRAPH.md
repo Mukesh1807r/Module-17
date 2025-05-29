@@ -30,7 +30,7 @@ To write a Python program to generate a graph for a given fixed degree sequence.
 
 ## Program
 
-```
+```python
 def printMat(degseq, n):
 	
 	# n is number of vertices
