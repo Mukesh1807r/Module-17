@@ -27,7 +27,7 @@ To write a Python program to print the topological sorting of a Directed Acyclic
 
 ## Program
 
-```
+```python
 # A Python3 program to print topological sorting of a DAG
 def addEdge(u, v):
 	global adj
